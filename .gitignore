@@ -1,0 +1,15 @@
+# Root
+node_modules/
+.env
+.expo/
+dist/
+*.log
+.DS_Store
+
+# Client
+client/node_modules/
+client/.expo/
+
+# Server
+server/node_modules/
+server/dist/
